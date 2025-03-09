@@ -2,7 +2,8 @@
 
 
 
-![Screenshot 2025-03-09 120154](https://github.com/user-attachments/assets/e05ce296-bb7f-4efa-aa33-44022a1fa356
+![Dashboard Screenshot](Screenshot 2025-03-09 120154.png)
+
 
 
 Customer Insights Dashboard Report
