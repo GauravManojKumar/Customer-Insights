@@ -2,8 +2,7 @@
 
 
 
-![Dashboard Screenshot](Screenshot 2025-03-09 120154.png)
-
+![Screenshot 2025-03-09 120154](https://github.com/user-attachments/assets/50e99651-9306-4618-a991-be861759108a)
 
 
 Customer Insights Dashboard Report
@@ -44,4 +43,4 @@ Conclusion
 
 This dashboard provides valuable insights into customer behavior and purchasing trends. The data can be used to optimize marketing strategies, tailor product offerings, and improve customer engagement.
 
-Image
+
